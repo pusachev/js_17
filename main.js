@@ -1,3 +1,3 @@
 alert('ssss');
 
-console.log('sss');
+console.log('123');
