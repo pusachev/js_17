@@ -1,3 +1,3 @@
-alert("hello from branch dev");
+alert("hello from fs2");
 
 console.log('123');
